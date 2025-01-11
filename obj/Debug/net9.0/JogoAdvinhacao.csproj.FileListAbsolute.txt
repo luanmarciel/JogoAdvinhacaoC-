@@ -1,0 +1,14 @@
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\net9.0\JogoAdvinhacao.exe
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\net9.0\JogoAdvinhacao.deps.json
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\net9.0\JogoAdvinhacao.runtimeconfig.json
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\net9.0\JogoAdvinhacao.dll
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\bin\Debug\net9.0\JogoAdvinhacao.pdb
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.AssemblyInfoInputs.cache
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.AssemblyInfo.cs
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.dll
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\refint\JogoAdvinhacao.dll
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.pdb
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.genruntimeconfig.cache
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\ref\JogoAdvinhacao.dll
