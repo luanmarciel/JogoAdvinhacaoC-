@@ -5,29 +5,30 @@ public static class Program
     public static void Main()
     {
         Console.WriteLine("Bem-vindo ao jogo de adivinhação!");
-        Console.WriteLine("Estou pensando em um número entre 1 e 100. Tente adivinhar!");
+        Console.WriteLine("Advinhe o número entre 1 e 100!");
 
-        // Gera o número secreto
         int numeroSecreto = GerarNumeroSecreto();
         Jogar(numeroSecreto);
 
-        Console.WriteLine("Obrigado por jogar!");
+        Console.WriteLine("Valeu por jogar!");
     }
 
     private static int GerarNumeroSecreto()
     {
         Random random = new Random();
-        return random.Next(1, 101); // Número entre 1 e 100
+        return random.Next(1, 101);
     }
 
     private static void Jogar(int numeroSecreto)
     {
         bool acertou = false;
+        int tentativas = 0;
 
         while (!acertou)
         {
-            Console.Write("Digite seu palpite: ");
-            string entrada = Console.ReadLine();
+            Console.Write("Digite qual número você imagina: ");
+            string? entrada = Console.ReadLine();
+            tentativas++; //adcionando o contador de tentativas
 
             if (int.TryParse(entrada, out int tentativa))
             {
@@ -41,7 +42,7 @@ public static class Program
                 }
                 else
                 {
-                    Console.WriteLine($"Parabéns! Você acertou o número {numeroSecreto}.");
+                    Console.WriteLine($"Parabéns! Você acertou o número {numeroSecreto} em {tentativas} tentativas.");
                     acertou = true;
                 }
             }

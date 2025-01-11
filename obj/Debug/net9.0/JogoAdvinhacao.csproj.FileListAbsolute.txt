@@ -12,3 +12,4 @@ C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\refint\Jog
 C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.pdb
 C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.genruntimeconfig.cache
 C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\ref\JogoAdvinhacao.dll
+C:\Users\luanm\Desktop\JogoAdvinhacao\JogoAdvinhacao\obj\Debug\net9.0\JogoAdvinhacao.sourcelink.json
